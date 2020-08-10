@@ -1,0 +1,13 @@
+BEGIN
+nation 0 nation 1
+n_comment 0
+n_name 0
+n_nationkey 0
+n_regionkey 0
+END
+BEGIN
+region 0 region 1
+r_comment 0
+r_name 0
+r_regionkey 0
+END
